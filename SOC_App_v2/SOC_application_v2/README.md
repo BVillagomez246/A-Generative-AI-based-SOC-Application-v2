@@ -41,6 +41,12 @@ question, or generate a full report, all from the same dropdown.
 
 ![Chat dropdown listing completed investigations, Post Question, and Final Report](screenshots/05-chat-context-dropdown.png)
 
+**Text → PDF Converter** — turn a Markdown-style `.txt` report
+(including `#IMAGE_HERE:` placeholders for embedding images) into a
+downloadable, properly formatted PDF, built entirely client-side.
+
+![Text to PDF converter with text and image upload](screenshots/06-pdf-converter.png)
+
 ---
 
 ## ⚠️ Before you do anything else
